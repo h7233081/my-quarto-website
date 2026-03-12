@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "欢迎来到我的主页\n大家好好！我是一名在读研究生，主要研究方向是 GIS（地理信息系统）与空间数据分析。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303120182\n姓名：韩杰\n专业：农业工程信息技术\n技能：熟练使用 Python 和 R 语言进行数据分析。"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303120182\n姓名：韩杰\n专业：农业工程信息技术\n技能：熟练使用 Python 和 R 语言进行数据分析。"
+  },
+  {
+    "objectID": "about.html#研究方向",
+    "href": "about.html#研究方向",
+    "title": "关于我",
+    "section": "研究方向",
+    "text": "研究方向\n\n空间数据处理与制图\n土壤科学与土地利用分析"
+  }
+]
